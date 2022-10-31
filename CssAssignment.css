@@ -1,3 +1,11 @@
+body
+{
+   
+    background-image: url(bak.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 1500px; 
+}
 .Sam
 {
     background-color: maroon;
@@ -57,13 +65,6 @@ tr:nth-child(even)
     background-color: gold;
     padding: 20px;
     margin: 50px;
-}
-body
-{
-    background-image: url("uganada's bird.PNG");
-    background-attachment: fixed;
-    background-repeat: no-repeat;
-    background-size: 1250px;
 }
 .contact-form
 {
